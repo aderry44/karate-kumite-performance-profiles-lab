@@ -1,0 +1,28 @@
+{
+ "N_BOOTSTRAP": 500,
+ "N_PERMUTATIONS": 500,
+ "N_SUBSAMPLES": 500,
+ "SUBSAMPLE_FRAC": 0.8,
+ "RESAMPLE_SEED": 20261007,
+ "K_VALUES": [
+  2,
+  3,
+  4,
+  5
+ ],
+ "MIN_CLUSTER_SIZE": 4,
+ "KMEANS_SEEDS": 100,
+ "RSKC_SEEDS": 100,
+ "ARSK_SEEDS": 100,
+ "DBSCAN_MIN_RETENTION": 0.8,
+ "P0_FEATURES": [
+  "yuko",
+  "waza_ari",
+  "ippon",
+  "attack",
+  "defend",
+  "longest_point_in_sec",
+  "fastest_point_in_sec"
+ ],
+ "version": 2
+}

@@ -1,0 +1,13 @@
+weight_class,config,retained_n,coverage,ARI_vs_P0_cond,ARI_vs_P0_cov,ARI_vs_P0_ret,ARI_scored_cond,ARI_scored_cov,ARI_scored_ret
+Female-42kg,P0,33.0,0.868,,,,0.717,0.623,0.515
+Female-42kg,TP,31.0,0.816,0.309,0.252,0.435,-0.02,-0.016,-0.065
+Female-42kg,NT,32.0,0.842,0.304,0.256,0.457,-0.031,-0.026,-0.066
+Female-42kg,SO,20.0,0.792,0.777,0.615,0.654,,,
+Female-47kg,P0,31.0,0.816,,,,1.0,0.816,0.531
+Female-47kg,TP,,,,,,,,
+Female-47kg,NT,,,,,,,,
+Female-47kg,SO,,,,,,,,
+Female-54kg,P0,31.0,0.816,,,,1.0,0.816,0.657
+Female-54kg,TP,32.0,0.763,0.577,0.44,0.465,0.646,0.544,0.407
+Female-54kg,NT,,,,,,,,
+Female-54kg,SO,,,,,,,,

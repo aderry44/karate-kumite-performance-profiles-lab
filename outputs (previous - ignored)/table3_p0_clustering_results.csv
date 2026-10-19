@@ -1,0 +1,4 @@
+weight_class,method,k,silhouette,dbi,retained_n,cluster_sizes
+Female-42kg,k-Means,4,0.437,0.931,38,"{0: 6, 1: 15, 2: 4, 3: 13}"
+Female-47kg,k-Means,5,0.356,1.03,38,"{0: 10, 1: 8, 2: 7, 3: 9, 4: 4}"
+Female-54kg,k-Means,2,0.404,0.944,38,"{0: 25, 1: 13}"

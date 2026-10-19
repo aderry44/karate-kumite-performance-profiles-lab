@@ -1,0 +1,31 @@
+Weight class,Method,Model,Admiss. (%),Within,Between,Gap,PAC
+Female-42kg,Ward,Fixed (as published),32.4,0.953,0.013,0.94,0.047
+Female-42kg,Ward,Full pipeline,100.0,0.962,0.154,0.808,0.273
+Female-42kg,k-Means,Fixed (as published),42.0,0.971,0.008,0.963,0.033
+Female-42kg,k-Means,Full pipeline,100.0,0.995,0.079,0.917,0.172
+Female-42kg,RSKC-STOF,Fixed (as published),37.0,0.827,0.039,0.787,0.287
+Female-42kg,RSKC-STOF,Full pipeline,100.0,0.991,0.081,0.91,0.193
+Female-42kg,ARSK,Fixed (as published),44.8,0.765,0.052,0.713,0.262
+Female-42kg,ARSK,Full pipeline,100.0,0.927,0.122,0.806,0.232
+Female-42kg,DBSCAN,Fixed (as published),68.8,0.998,0.0,0.998,0.0
+Female-42kg,DBSCAN,Full pipeline,79.0,1.0,0.0,1.0,0.0
+Female-47kg,Ward,Fixed (as published),97.0,0.817,0.086,0.732,0.397
+Female-47kg,Ward,Full pipeline,100.0,0.757,0.082,0.675,0.385
+Female-47kg,k-Means,Fixed (as published),19.0,0.8,0.037,0.764,0.172
+Female-47kg,k-Means,Full pipeline,100.0,0.936,0.17,0.766,0.464
+Female-47kg,RSKC-STOF,Fixed (as published),24.0,0.659,0.082,0.577,0.263
+Female-47kg,RSKC-STOF,Full pipeline,100.0,0.658,0.197,0.461,0.569
+Female-47kg,ARSK,Fixed (as published),6.2,0.542,0.109,0.432,0.357
+Female-47kg,ARSK,Full pipeline,100.0,0.677,0.18,0.497,0.36
+Female-47kg,DBSCAN,Fixed (as published),67.8,1.0,0.0,1.0,0.0
+Female-47kg,DBSCAN,Full pipeline,76.2,0.962,0.114,0.848,0.387
+Female-54kg,Ward,Fixed (as published),100.0,0.999,0.002,0.997,0.0
+Female-54kg,Ward,Full pipeline,100.0,1.0,0.0,0.999,0.0
+Female-54kg,k-Means,Fixed (as published),100.0,1.0,0.0,1.0,0.0
+Female-54kg,k-Means,Full pipeline,100.0,1.0,0.0,1.0,0.0
+Female-54kg,RSKC-STOF,Fixed (as published),98.4,0.947,0.086,0.861,0.267
+Female-54kg,RSKC-STOF,Full pipeline,100.0,0.999,0.0,0.999,0.0
+Female-54kg,ARSK,Fixed (as published),98.6,0.94,0.078,0.862,0.245
+Female-54kg,ARSK,Full pipeline,100.0,0.999,0.0,0.999,0.0
+Female-54kg,DBSCAN,Fixed (as published),18.6,0.839,0.0,0.839,0.258
+Female-54kg,DBSCAN,Full pipeline,100.0,1.0,0.0,1.0,0.0

@@ -1,0 +1,39 @@
+﻿weight_class;stage;match;name;state;hantei;yuko;waza_ari;ippon;total_point;action_with_point;attack;defend;action;longest_point_in_sec;fastest_point_in_sec;match_attack;match_defend;match_action;point_diff
+Female-54kg;1;1;Z. Yeraly;win;1;0;0;0;0;0;9;3;12;0;0;13;4;17;0
+Female-54kg;1;1;Vinogravoda;lose;1;0;0;0;0;0;4;1;5;0;0;13;4;17;0
+Female-54kg;1;2;R. Abellanosa;lose;0;0;0;0;0;0;2;4;6;6;3;11;5;16;-8
+Female-54kg;1;2;G. Mehdipour;win;0;8;0;0;8;8;9;1;10;3;2;11;5;16;8
+Female-54kg;1;3;A.Zarei;lose;1;0;0;0;0;0;5;3;8;0;0;11;9;20;0
+Female-54kg;1;3;K. Ribar;win;1;0;0;0;0;0;6;6;12;0;0;11;9;20;0
+Female-54kg;1;4;A. Vinay Khodimat;lose;0;0;0;0;0;0;11;1;12;6;4;14;6;20;-1
+Female-54kg;1;4;M. Tobdotu;win;0;1;0;0;1;1;3;5;8;5;3;14;6;20;1
+Female-54kg;1;5;T. Vaezi;lose;0;0;0;0;0;0;6;4;10;5;3;13;7;20;-2
+Female-54kg;1;5;B. Sherifi;win;0;2;0;0;2;2;7;3;10;5;2;13;7;20;2
+Female-54kg;1;6;S. Khestiah;win;1;0;0;0;0;0;7;3;10;0;0;12;6;18;0
+Female-54kg;1;6;Komorowski;lose;1;0;0;0;0;0;5;3;8;0;0;12;6;18;0
+Female-54kg;1;7;S. Mosleh;win;0;9;0;0;9;9;5;5;10;4;2;11;8;19;9
+Female-54kg;1;7;G. Pour;lose;0;0;0;0;0;0;6;3;9;0;0;11;8;19;-9
+Female-54kg;1;8;Kibar;lose;0;1;0;0;1;1;3;4;7;6;4;8;6;14;-2
+Female-54kg;1;8;D. Astapova;win;0;3;0;0;3;3;5;2;7;4;2;8;6;14;2
+Female-54kg;1;9;Vinay Garut;lose;0;0;0;0;0;0;7;0;7;0;0;13;4;17;-9
+Female-54kg;1;9;B. Sherly;win;0;9;0;0;9;9;6;4;10;4;2;13;4;17;9
+Female-54kg;1;10;S. Kheshah;win;0;5;0;0;5;5;7;3;10;5;2;13;5;18;5
+Female-54kg;1;10;S. Kahrariran;lose;0;0;0;0;0;0;6;2;8;0;0;13;5;18;-5
+Female-54kg;2;11;Z. Yeraly;win;0;2;0;0;2;2;7;3;10;4;2;12;7;19;2
+Female-54kg;2;11;G. Mehdipour;lose;0;0;0;0;0;0;5;4;9;0;0;12;7;19;-2
+Female-54kg;2;12;M. Tobdotu;lose;1;0;0;0;0;0;5;3;8;0;0;11;9;20;0
+Female-54kg;2;12;K. Ribar;win;1;0;0;0;0;0;6;6;12;0;0;11;9;20;0
+Female-54kg;2;13;S. Khestiah;win;0;3;0;0;3;3;7;3;10;4;2;12;6;18;3
+Female-54kg;2;13;B. Sherifi;lose;0;0;0;0;0;0;5;3;8;0;0;12;6;18;-3
+Female-54kg;2;14;S. Mosleh;win;0;3;0;0;3;3;5;5;10;4;2;11;8;19;1
+Female-54kg;2;14;D. Astapova;lose;0;2;0;0;2;2;6;3;9;6;4;11;8;19;-1
+Female-54kg;2;15;S. Kheshah;win;0;5;0;0;5;5;7;3;10;5;2;13;5;18;3
+Female-54kg;2;15;B. Sherly;lose;0;2;0;0;2;2;6;2;8;6;4;13;5;18;-3
+Female-54kg;3;16;Z. Yeraly;lose;0;1;0;0;1;1;5;3;8;6;4;11;9;20;-1
+Female-54kg;3;16;K. Ribar;win;0;2;0;0;2;2;6;6;12;5;3;11;9;20;1
+Female-54kg;3;17;S. Mosleh;win;0;3;0;0;3;3;5;5;10;4;2;11;8;19;1
+Female-54kg;3;17;S. Khestiah;lose;0;2;0;0;2;2;6;3;9;6;4;11;8;19;-1
+Female-54kg;semifinal;18;S. Mosleh;win;0;4;0;0;4;4;7;5;12;4;2;13;8;21;3
+Female-54kg;semifinal;18;K. Ribar;lose;0;1;0;0;1;1;6;3;9;6;4;13;8;21;-3
+Female-54kg;final;19;S. Mosleh;win;0;4;0;0;4;4;8;6;14;4;2;14;11;25;2
+Female-54kg;final;19;S. Kheshah;lose;0;2;0;0;2;2;6;5;11;6;4;14;11;25;-2

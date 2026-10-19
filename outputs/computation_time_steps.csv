@@ -1,0 +1,32 @@
+step,config,method,Female-42kg,Female-47kg,Female-54kg,all
+"Cluster profiles (1,000 bootstrap)",all,all,0.0,0.0,0.0,3.5
+Feature-sensitivity selection,S1,ARSK,11.1,10.1,10.6,0.0
+Feature-sensitivity selection,S1,DBSCAN,0.2,0.2,0.2,0.0
+Feature-sensitivity selection,S1,RSKC-STOF,10.2,10.2,9.9,0.0
+Feature-sensitivity selection,S1,Ward,0.0,0.0,0.0,0.0
+Feature-sensitivity selection,S1,k-Means,10.8,10.6,10.2,0.0
+Feature-sensitivity selection,S2,ARSK,10.5,11.2,10.6,0.0
+Feature-sensitivity selection,S2,DBSCAN,0.2,0.2,0.3,0.0
+Feature-sensitivity selection,S2,RSKC-STOF,10.0,10.2,9.2,0.0
+Feature-sensitivity selection,S2,Ward,0.0,0.0,0.0,0.0
+Feature-sensitivity selection,S2,k-Means,10.4,10.4,10.1,0.0
+P0 selection,P0,ARSK,10.9,12.0,11.7,0.0
+P0 selection,P0,DBSCAN,0.3,0.2,0.3,0.0
+P0 selection,P0,RSKC-STOF,9.4,9.9,9.0,0.0
+P0 selection,P0,Ward,0.0,0.0,0.0,0.0
+P0 selection,P0,k-Means,10.5,10.1,10.1,0.0
+Structural-zero selection,NT,ARSK,10.7,11.9,11.5,0.0
+Structural-zero selection,NT,DBSCAN,0.2,0.2,0.2,0.0
+Structural-zero selection,NT,RSKC-STOF,9.1,9.5,9.2,0.0
+Structural-zero selection,NT,Ward,0.0,0.0,0.0,0.0
+Structural-zero selection,NT,k-Means,10.1,10.6,10.4,0.0
+Structural-zero selection,SO,ARSK,8.6,10.8,10.1,0.0
+Structural-zero selection,SO,DBSCAN,0.2,0.2,0.2,0.0
+Structural-zero selection,SO,RSKC-STOF,9.0,9.0,8.4,0.0
+Structural-zero selection,SO,Ward,0.0,0.0,0.0,0.0
+Structural-zero selection,SO,k-Means,10.0,9.9,9.9,0.0
+Structural-zero selection,TP,ARSK,10.2,10.6,10.4,0.0
+Structural-zero selection,TP,DBSCAN,0.2,0.3,0.2,0.0
+Structural-zero selection,TP,RSKC-STOF,10.0,9.4,9.1,0.0
+Structural-zero selection,TP,Ward,0.0,0.0,0.0,0.0
+Structural-zero selection,TP,k-Means,10.4,10.2,10.0,0.0

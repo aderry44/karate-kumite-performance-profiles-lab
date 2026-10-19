@@ -1,0 +1,6 @@
+analysis,replicates,median_s,cpu_hours
+bootstrap,1500.0,52.74721052750101,22.05
+loao,60.0,54.42813894050016,0.9
+permutation,1500.0,55.40793406050034,23.38
+subsample,1500.0,50.14897348300008,21.0
+ALL (wall clock),,,8.59

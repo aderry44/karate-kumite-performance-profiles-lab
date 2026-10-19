@@ -1,0 +1,316 @@
+{
+ "software": {
+  "python": "3.13.16",
+  "platform": "Linux-6.6.122+-x86_64-with-glibc2.39",
+  "numpy": "2.1.3",
+  "pandas": "2.2.3",
+  "scikit-learn": "1.6.1",
+  "scipy": "1.16.3",
+  "joblib": "1.6.0"
+ },
+ "selection_protocol": {
+  "K_VALUES": [
+   2,
+   3,
+   4,
+   5
+  ],
+  "MIN_CLUSTER_SIZE": 4,
+  "seeded_methods": "100 seeds (0-99) per k; representative run = admissible run whose silhouette is closest to the LOWER median of admissible silhouettes; ties -> lower DBI, lower W/B, lower seed; k with the highest representative silhouette",
+  "KMEANS_N_INIT": 20,
+  "RSKC_STOF": {
+   "contamination_percent": 2.0,
+   "s_selection": "permutation gap, 10 candidates in [1.2, 0.9*sqrt(d)], 25 permutations, tuning seed 202600 + 1000*class_index + 10*k"
+  },
+  "ARSK": {
+   "version": "group-lasso E, soft-thresholded w",
+   "initial_E_fraction": 0.0,
+   "tuning": "robust Gap statistic, B=25, lambda2 then lambda1, 10-value exponential grids, tuning seed 2026 + 10*k"
+  },
+  "DBSCAN": {
+   "eps_grid": [
+    0.3,
+    0.4,
+    0.5,
+    0.6,
+    0.7,
+    0.8,
+    0.9,
+    1.0,
+    1.1,
+    1.2,
+    1.3,
+    1.4,
+    1.5,
+    1.6,
+    1.7,
+    1.8,
+    1.9,
+    2.0,
+    2.1,
+    2.2,
+    2.3,
+    2.4,
+    2.5,
+    2.6,
+    2.7,
+    2.8,
+    2.9,
+    3.0,
+    3.1,
+    3.2,
+    3.3,
+    3.4,
+    3.5,
+    3.6,
+    3.7,
+    3.8,
+    3.9,
+    4.0
+   ],
+   "eps_step": 0.1,
+   "minpts_grid": [
+    4,
+    5,
+    6
+   ],
+   "min_retention": 0.8
+  }
+ },
+ "p0_selected": {
+  "Female-42kg": {
+   "Ward": {
+    "k": 4,
+    "seed": null,
+    "silhouette": 0.4415772872344243,
+    "dbi": 0.8717166869079955,
+    "eps": null,
+    "minpts": null
+   },
+   "k-Means": {
+    "k": 4,
+    "seed": 3,
+    "silhouette": 0.4374442986230454,
+    "dbi": 0.9309386048495756,
+    "eps": null,
+    "minpts": null
+   },
+   "RSKC-STOF": {
+    "k": 4,
+    "seed": 8,
+    "silhouette": 0.4415772872344243,
+    "dbi": 0.8717166869079954,
+    "eps": null,
+    "minpts": null
+   },
+   "ARSK": {
+    "k": 4,
+    "seed": 0,
+    "silhouette": 0.4393225746462519,
+    "dbi": 0.8985711413666531,
+    "eps": null,
+    "minpts": null
+   },
+   "DBSCAN": {
+    "k": 3,
+    "seed": null,
+    "silhouette": 0.47682327443174355,
+    "dbi": 0.8072916243221399,
+    "eps": 2.0,
+    "minpts": 4
+   }
+  },
+  "Female-47kg": {
+   "Ward": {
+    "k": 3,
+    "seed": null,
+    "silhouette": 0.3068785496144274,
+    "dbi": 1.2771942473125353,
+    "eps": null,
+    "minpts": null
+   },
+   "k-Means": {
+    "k": 5,
+    "seed": 15,
+    "silhouette": 0.35638277135186053,
+    "dbi": 1.030376321537843,
+    "eps": null,
+    "minpts": null
+   },
+   "RSKC-STOF": {
+    "k": 5,
+    "seed": 68,
+    "silhouette": 0.31884833956601133,
+    "dbi": 1.2698703309162078,
+    "eps": null,
+    "minpts": null
+   },
+   "ARSK": {
+    "k": 5,
+    "seed": 28,
+    "silhouette": 0.31884833956601133,
+    "dbi": 1.2698703309162078,
+    "eps": null,
+    "minpts": null
+   },
+   "DBSCAN": {
+    "k": 2,
+    "seed": null,
+    "silhouette": 0.3641847275598611,
+    "dbi": 0.8816006669083329,
+    "eps": 2.4,
+    "minpts": 4
+   }
+  },
+  "Female-54kg": {
+   "Ward": {
+    "k": 2,
+    "seed": null,
+    "silhouette": 0.40370451009727243,
+    "dbi": 0.9442694889307685,
+    "eps": null,
+    "minpts": null
+   },
+   "k-Means": {
+    "k": 2,
+    "seed": 0,
+    "silhouette": 0.40370451009727243,
+    "dbi": 0.9442694889307685,
+    "eps": null,
+    "minpts": null
+   },
+   "RSKC-STOF": {
+    "k": 2,
+    "seed": 0,
+    "silhouette": 0.40370451009727243,
+    "dbi": 0.9442694889307685,
+    "eps": null,
+    "minpts": null
+   },
+   "ARSK": {
+    "k": 2,
+    "seed": 0,
+    "silhouette": 0.40370451009727243,
+    "dbi": 0.9442694889307685,
+    "eps": null,
+    "minpts": null
+   },
+   "DBSCAN": {
+    "k": 2,
+    "seed": null,
+    "silhouette": 0.4874448411263744,
+    "dbi": 0.7400233747645522,
+    "eps": 1.4,
+    "minpts": 4
+   }
+  }
+ },
+ "p0_tuned_parameters": {
+  "Female-42kg": {
+   "RSKC-STOF s": {
+    "2": 1.62724326649246,
+    "3": 2.044823892234168,
+    "4": 2.2066005402875426,
+    "5": 2.2066005402875426
+   },
+   "ARSK (lambda1, lambda2)": {
+    "2": [
+     1.3450172912962128,
+     56.84504174135724
+    ],
+    "3": [
+     1.5161033052518036,
+     61.71156069364157
+    ],
+    "4": [
+     0.9290883054708801,
+     41.48757448355028
+    ],
+    "5": [
+     2.0596193485321495,
+     41.48757448355028
+    ]
+   }
+  },
+  "Female-47kg": {
+   "RSKC-STOF s": {
+    "2": 2.2066005402875426,
+    "3": 2.044823892234168,
+    "4": 2.381176179958132,
+    "5": 2.2066005402875426
+   },
+   "ARSK (lambda1, lambda2)": {
+    "2": [
+     1.0291853614863014,
+     51.51438927291095
+    ],
+    "3": [
+     3.109880437742604,
+     62.74899383152996
+    ],
+    "4": [
+     1.0126360734710955,
+     41.04916296231142
+    ],
+    "5": [
+     1.3166451291691825,
+     40.610751441072566
+    ]
+   }
+  },
+  "Female-54kg": {
+   "RSKC-STOF s": {
+    "2": 1.5992971796084599,
+    "3": 1.9001064252983686,
+    "4": 1.9001064252983686,
+    "5": 1.7940243835704648
+   },
+   "ARSK (lambda1, lambda2)": {
+    "2": [
+     1.4337067245726642,
+     61.87286098654711
+    ],
+    "3": [
+     1.4263547552152105,
+     64.24658900947279
+    ],
+    "4": [
+     0.8315594538727107,
+     39.954526181866726
+    ],
+    "5": [
+     0.6553790787046399,
+     38.74156919992963
+    ]
+   }
+  }
+ },
+ "resampling": {
+  "N_BOOTSTRAP": 500,
+  "N_PERMUTATIONS": 500,
+  "N_SUBSAMPLES": 500,
+  "SUBSAMPLE_FRAC": 0.8,
+  "RESAMPLE_SEED": 20261007,
+  "K_VALUES": [
+   2,
+   3,
+   4,
+   5
+  ],
+  "MIN_CLUSTER_SIZE": 4,
+  "KMEANS_SEEDS": 100,
+  "RSKC_SEEDS": 100,
+  "ARSK_SEEDS": 100,
+  "DBSCAN_MIN_RETENTION": 0.8,
+  "P0_FEATURES": [
+   "yuko",
+   "waza_ari",
+   "ippon",
+   "attack",
+   "defend",
+   "longest_point_in_sec",
+   "fastest_point_in_sec"
+  ],
+  "version": 2
+ }
+}

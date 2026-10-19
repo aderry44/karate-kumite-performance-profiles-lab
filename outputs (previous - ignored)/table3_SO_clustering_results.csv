@@ -1,0 +1,16 @@
+weight_class,method,k,silhouette,dbi,retained_n,cluster_sizes
+Female-42kg,Ward,2.0,0.243,1.286,24.0,"{0: 5, 1: 19}"
+Female-42kg,k-Means,3.0,0.238,1.371,24.0,"{0: 6, 1: 14, 2: 4}"
+Female-42kg,RSKC-STOF,2.0,0.222,1.622,24.0,"{0: 9, 1: 15}"
+Female-42kg,ARSK,5.0,0.217,1.204,24.0,"{0: 5, 1: 4, 2: 4, 3: 4, 4: 7}"
+Female-42kg,DBSCAN,2.0,0.248,1.235,20.0,"{0: 16, 1: 4}"
+Female-47kg,Ward,2.0,0.327,1.342,29.0,"{0: 7, 1: 22}"
+Female-47kg,k-Means,2.0,0.351,1.345,29.0,"{0: 8, 1: 21}"
+Female-47kg,RSKC-STOF,2.0,0.351,1.345,29.0,"{0: 8, 1: 21}"
+Female-47kg,ARSK,2.0,0.351,1.345,29.0,"{0: 8, 1: 21}"
+Female-47kg,DBSCAN,,,,,
+Female-54kg,Ward,2.0,0.377,1.046,25.0,"{0: 13, 1: 12}"
+Female-54kg,k-Means,2.0,0.377,1.046,25.0,"{0: 13, 1: 12}"
+Female-54kg,RSKC-STOF,2.0,0.377,1.046,25.0,"{0: 13, 1: 12}"
+Female-54kg,ARSK,2.0,0.377,1.046,25.0,"{0: 13, 1: 12}"
+Female-54kg,DBSCAN,,,,,

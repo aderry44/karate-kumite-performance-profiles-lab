@@ -1,0 +1,31 @@
+Weight class,Method,Null,Observed sil.,B,Admissible null,Null median,Null 95th pct.,Δ Sil.,p (admissible),p (all B),Null k distribution
+Female-42kg,Ward,Fixed (as published),0.4416,500,404,0.1971,0.2423,0.2445,0.0025,0.002,
+Female-42kg,Ward,Full pipeline,0.4416,500,489,0.2755,0.3209,0.166,0.002,0.002,"2:64%, 3:22%, 4:7%, 5:7%"
+Female-42kg,k-Means,Fixed (as published),0.4374,500,449,0.2045,0.2438,0.233,0.0022,0.002,
+Female-42kg,k-Means,Full pipeline,0.4374,500,500,0.2434,0.321,0.1941,0.002,0.002,"2:38%, 3:15%, 4:17%, 5:30%"
+Female-42kg,RSKC-STOF,Fixed (as published),0.4416,500,397,0.1721,0.2321,0.2695,0.0025,0.002,
+Female-42kg,RSKC-STOF,Full pipeline,0.4416,500,500,0.1756,0.2209,0.2659,0.002,0.002,"2:24%, 3:27%, 4:27%, 5:22%"
+Female-42kg,ARSK,Fixed (as published),0.4393,500,234,0.1036,0.2077,0.3357,0.0043,0.002,
+Female-42kg,ARSK,Full pipeline,0.4393,500,500,0.1677,0.2118,0.2716,0.002,0.002,"2:30%, 3:15%, 4:21%, 5:34%"
+Female-42kg,DBSCAN,Fixed (as published),0.4768,500,0,,,,,0.002,
+Female-42kg,DBSCAN,Full pipeline,0.4768,500,210,0.2837,0.3321,0.1931,0.0047,0.002,"2:100%, 3:0%"
+Female-47kg,Ward,Fixed (as published),0.3069,500,336,0.1852,0.2525,0.1217,0.0059,0.004,
+Female-47kg,Ward,Full pipeline,0.3069,500,450,0.2182,0.3051,0.0887,0.0488,0.0439,"2:62%, 3:24%, 4:9%, 5:5%"
+Female-47kg,k-Means,Fixed (as published),0.3564,500,193,0.1959,0.2477,0.1604,0.0052,0.002,
+Female-47kg,k-Means,Full pipeline,0.3564,500,500,0.2131,0.3078,0.1433,0.01,0.01,"2:35%, 3:18%, 4:15%, 5:33%"
+Female-47kg,RSKC-STOF,Fixed (as published),0.3188,500,208,0.1602,0.2112,0.1587,0.0048,0.002,
+Female-47kg,RSKC-STOF,Full pipeline,0.3188,500,500,0.1622,0.2092,0.1567,0.002,0.002,"2:51%, 3:15%, 4:18%, 5:16%"
+Female-47kg,ARSK,Fixed (as published),0.3188,500,157,0.093,0.1654,0.2259,0.0063,0.002,
+Female-47kg,ARSK,Full pipeline,0.3188,500,500,0.1621,0.2122,0.1567,0.002,0.002,"2:43%, 3:10%, 4:19%, 5:29%"
+Female-47kg,DBSCAN,Fixed (as published),0.3642,500,13,0.2791,0.3236,0.0851,0.0714,0.002,
+Female-47kg,DBSCAN,Full pipeline,0.3642,500,36,0.2863,0.3314,0.0779,0.027,0.002,2:100%
+Female-54kg,Ward,Fixed (as published),0.4037,500,492,0.1927,0.2615,0.211,0.002,0.002,
+Female-54kg,Ward,Full pipeline,0.4037,500,492,0.2172,0.2673,0.1865,0.002,0.002,"2:43%, 3:25%, 4:16%, 5:15%"
+Female-54kg,k-Means,Fixed (as published),0.4037,500,499,0.2043,0.2521,0.1994,0.002,0.002,
+Female-54kg,k-Means,Full pipeline,0.4037,500,500,0.2349,0.2738,0.1688,0.002,0.002,"2:16%, 3:18%, 4:23%, 5:43%"
+Female-54kg,RSKC-STOF,Fixed (as published),0.4037,500,497,0.1943,0.2439,0.2094,0.002,0.002,
+Female-54kg,RSKC-STOF,Full pipeline,0.4037,500,500,0.2045,0.2455,0.1992,0.002,0.002,"2:51%, 3:19%, 4:15%, 5:14%"
+Female-54kg,ARSK,Fixed (as published),0.4037,500,490,0.1876,0.2533,0.2161,0.002,0.002,
+Female-54kg,ARSK,Full pipeline,0.4037,500,500,0.2035,0.246,0.2002,0.002,0.002,"2:43%, 3:11%, 4:17%, 5:30%"
+Female-54kg,DBSCAN,Fixed (as published),0.4874,500,0,,,,,0.002,
+Female-54kg,DBSCAN,Full pipeline,0.4874,500,74,0.2451,0.3067,0.2424,0.0133,0.002,"2:91%, 3:9%"
